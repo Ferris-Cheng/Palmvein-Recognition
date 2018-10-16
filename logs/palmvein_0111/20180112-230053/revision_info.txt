@@ -1,0 +1,2 @@
+arguments: src/palmvein_train.py
+--------------------

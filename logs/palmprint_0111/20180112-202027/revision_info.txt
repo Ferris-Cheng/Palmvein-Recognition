@@ -1,0 +1,2 @@
+arguments: src/palmprint_train.py
+--------------------
