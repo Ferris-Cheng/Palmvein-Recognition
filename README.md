@@ -1,5 +1,4 @@
-# Palmprint-Palmvein-Paper（SCI）
-论文介绍 || 实验结果 || 代码公开 || Q&amp;A
+# Palmprint and Palmvein Recognition Based on DCNN and A New Large-Scale Contactless Palmvein Dataset
 
 ## Paper
 
